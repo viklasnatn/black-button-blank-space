@@ -10,7 +10,7 @@ const Index = () => {
           "px-8 py-6 text-lg font-medium rounded-md"
         )}
       >
-        Click Me
+        Click Me More
       </Button>
     </div>
   );
