@@ -3,7 +3,7 @@ import { cn } from "@/lib/utils";
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-[#D946EF]">
+    <div className="min-h-screen flex items-center justify-center bg-[#0EA5E9]">
       <Button
         className={cn(
           "bg-[#D946EF] text-white hover:bg-[#D946EF]/90 transition-all duration-300",
