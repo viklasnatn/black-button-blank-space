@@ -6,7 +6,7 @@ const Index = () => {
     <div className="min-h-screen flex items-center justify-center bg-white">
       <Button
         className={cn(
-          "bg-[#222222] text-white hover:bg-[#222222]/90 transition-all duration-300",
+          "bg-[#D946EF] text-white hover:bg-[#D946EF]/90 transition-all duration-300",
           "px-8 py-6 text-lg font-medium rounded-md"
         )}
       >
